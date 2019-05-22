@@ -1,0 +1,13 @@
+:root{
+    /*Valores de las medidas*/
+    --main-h: 350px;
+
+    
+    /*Gestión de colores*/
+    --color-principal:#ffffff;
+    --color-secundario:#FFA500;
+    --color-footer:#111111;
+    --color-texto-primario: #000000;
+    --color-texto-secundario: #ffffff;
+    --color-icono-primario: #6b6b6b;
+}
