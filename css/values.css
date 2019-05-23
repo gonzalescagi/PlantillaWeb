@@ -1,12 +1,15 @@
 :root{
     /*Valores de las medidas*/
-    --main-h: 350px;
-
+    --header-w:100%;
+    --main-h: 700px;
+    --footer-h:280px;
     
     /*Gestión de colores*/
     --color-principal:#ffffff;
     --color-secundario:#FFA500;
     --color-footer:#111111;
+    --dash-menu:var(--color-principal);
+    /*Color de los textos*/
     --color-texto-primario: #000000;
     --color-texto-secundario: #ffffff;
     --color-icono-primario: #6b6b6b;
