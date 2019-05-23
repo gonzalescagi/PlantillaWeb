@@ -35,7 +35,7 @@ function accion(s) {
     }
 }
 
-//// Detect when scrolled to bottom.
+////scrolled
 //var li = document.querySelector('body');
 //window.addEventListener('scroll', function() {
 //    //alert(window.scrollTop);
